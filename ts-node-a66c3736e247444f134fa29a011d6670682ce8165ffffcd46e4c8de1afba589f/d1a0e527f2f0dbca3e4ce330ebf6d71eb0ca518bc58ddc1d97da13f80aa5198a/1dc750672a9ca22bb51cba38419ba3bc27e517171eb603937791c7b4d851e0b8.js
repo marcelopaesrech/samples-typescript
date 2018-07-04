@@ -1,0 +1,12 @@
+"use strict";
+Object.defineProperty(exports, "__esModule", { value: true });
+/**
+ * Efetua a criação do Publisher
+ */
+class PublisherFactory {
+    createPublisher() {
+        throw new Error("Not implemented yet");
+    }
+}
+exports.PublisherFactory = PublisherFactory;
+//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiL2hvbWUvbWFyY2Vsby9Qcm9qZWN0cy9Ob2RlanNDb25zb2xlQXBwMS9zcmMvbWVzc2FnaW5nL1B1Ymxpc2hlckZhY3RvcnkudHMiLCJzb3VyY2VzIjpbIi9ob21lL21hcmNlbG8vUHJvamVjdHMvTm9kZWpzQ29uc29sZUFwcDEvc3JjL21lc3NhZ2luZy9QdWJsaXNoZXJGYWN0b3J5LnRzIl0sIm5hbWVzIjpbXSwibWFwcGluZ3MiOiI7O0FBR0E7O0dBRUc7QUFDSDtJQUVJLGVBQWU7UUFDWCxNQUFNLElBQUksS0FBSyxDQUFDLHFCQUFxQixDQUFDLENBQUM7SUFDM0MsQ0FBQztDQUVKO0FBTkQsNENBTUMiLCJzb3VyY2VzQ29udGVudCI6WyJpbXBvcnQgKiBhcyBBbXFwIGZyb20gXCJhbXFwLXRzXCI7XG5pbXBvcnQgeyBJUHVibGlzaGVyIH0gZnJvbSBcIi4vSVB1Ymxpc2hlclwiO1xuXG4vKipcbiAqIEVmZXR1YSBhIGNyaWHDp8OjbyBkbyBQdWJsaXNoZXJcbiAqL1xuZXhwb3J0IGNsYXNzIFB1Ymxpc2hlckZhY3Rvcnkge1xuXG4gICAgY3JlYXRlUHVibGlzaGVyKCk6SVB1Ymxpc2hlcntcbiAgICAgICAgdGhyb3cgbmV3IEVycm9yKFwiTm90IGltcGxlbWVudGVkIHlldFwiKTtcbiAgICB9XG5cbn0iXX0=
