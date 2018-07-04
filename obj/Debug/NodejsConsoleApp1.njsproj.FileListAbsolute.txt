@@ -1,3 +1,0 @@
-C:\marcelo\projetos_de_teste\typescript\sampleVsProject\NodejsConsoleApp1\obj\Debug\NodejsConsoleApp1.njsprojAssemblyReference.cache
-C:\marcelo\projetos_de_teste\typescript\sampleVsProject\NodejsConsoleApp1\obj\Debug\NodejsConsoleApp1.njsproj.CoreCompileInputs.cache
-C:\marcelo\projetos_de_teste\typescript\sampleVsProject\NodejsConsoleApp1\bin\Microsoft.NodejsTools.WebRole.dll
